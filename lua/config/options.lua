@@ -10,3 +10,4 @@ vim.opt.foldlevel = 20
 vim.opt.foldmethod = "expr"
 vim.opt.foldexpr = "nvim_treesitter#foldexpr()"
 vim.opt.foldlevelstart = 99 -- "start file with all folds opened
+vim.opt.guifont = "JetBrains Mono:h13"
